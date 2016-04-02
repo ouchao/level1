@@ -21,3 +21,9 @@ conten爬取进程：
 
 日志:
 所有日志到保存在workdir/log下。
+
+本地数据:
+抓取的每个有用户的数据将保存到workdir/users/用户名.json
+
+mongodb:
+该程序包含将数据插入mongodb数据库的功能。默认没有开启.
