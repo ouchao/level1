@@ -1,0 +1,4 @@
+[2016-03-11 15:34:08] : 程序__loader_data,pid=7519,start loader
+[2016-03-11 15:34:08] : __loader_data-7514跳过loader,已经有进程在loader,
+[2016-03-11 15:34:08] : get_html_a-7519,loader data end,run get_html_a
+[2016-03-11 15:34:10] : get_html_a-7514,skip loader data,run get_html_a
