@@ -1,6 +1,6 @@
 # level1
 csdn3:
-这是一个多进程爬取csdn所有用户的blog文章的程序，爬取后可以自动出入到我的另一个项目http://shuipfcms.ouchaonihao.com/中，
+这是一个多进程爬取csdn所有用户的blog文章的程序，爬取后可以自动插入到我的另一个项目http://shuipfcms.ouchaonihao.com/中，
 
 a链接爬取进程:
 该程序开启多个进程爬取起始链接‘blog.csdn.net’,使用消息队列的机制不断提取a链接放入到爬取队列，然后分析该地址是否是用户blog地址
